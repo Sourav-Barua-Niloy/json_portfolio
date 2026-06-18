@@ -242,28 +242,19 @@
           "liveUrl": "#",
           "githubUrl": "#"
         },
+        // Frontend 
         {
           "id": "fe1",
-          "title": "Real-Time Crypto Dashboard",
-          "description": "Live cryptocurrency tracking dashboard with WebSocket price feeds, portfolio management, and interactive charts for 200+ coins.",
-          "tags": ["React", "TypeScript", "Recharts", "WebSocket", "Redux"],
+          "title": "TypeFlow — Typing Skill Trainer",
+          "description": "Full-stack typing practice platform with a real-time typing engine, live WPM/accuracy metrics, gamification (XP, levels, streaks, badges), analytics charts, global leaderboard, and an AI coach that detects weak keys from real session data.",
+          "tags": ["React", "TypeScript", "Ant Design", "Firebase", "Firestore", "Zustand", "React Query"],
           "category": "web-development",
           "subCategory": "frontend",
           "featured": true,
-          "liveUrl": "#",
-          "githubUrl": "#"
-        },
-        {
-          "id": "fe2",
-          "title": "Interactive Data Visualization Library",
-          "description": "A reusable React component library for data visualization with 20+ chart types, animations, and accessibility built-in.",
-          "tags": ["React", "D3.js", "TypeScript", "Storybook"],
-          "category": "web-development",
-          "subCategory": "frontend",
-          "featured": false,
-          "liveUrl": null,
-          "githubUrl": "#"
-        },
+          "liveUrl": "https://typeflow-app.web.app/",
+          "githubUrl": "https://github.com/Sourav-Barua-Niloy/TypeFlow-Typing-Skill-Trainer"
+        }
+        //backend
         {
           "id": "be1",
           "title": "Microservices API Gateway",
