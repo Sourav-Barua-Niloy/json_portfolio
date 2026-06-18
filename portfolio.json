@@ -222,25 +222,14 @@
         },
         {
           "id": "fs1",
-          "title": "Project Management Platform",
-          "description": "Full-featured project management app with real-time collaboration, Kanban boards, time tracking, and team analytics. 500+ active users.",
-          "tags": ["React", "Node.js", "PostgreSQL", "WebSocket", "Docker"],
+          "title": "Spendly — Expense Tracker",
+          "description": "Full-stack expense tracker with real-time sync, interactive analytics charts, Google & email authentication, advanced search/filters, and dark mode. Built with clean architecture across service, hook, and component layers.",
+          "tags": ["React", "TypeScript", "Firebase", "Tailwind CSS", "Recharts"],
           "category": "web-development",
           "subCategory": "full-stack",
           "featured": true,
-          "liveUrl": "#",
-          "githubUrl": "#"
-        },
-        {
-          "id": "fs2",
-          "title": "Healthcare Appointment System",
-          "description": "Telemedicine platform with video consultation, appointment booking, prescription management, and patient records. HIPAA-compliant architecture.",
-          "tags": ["Next.js", "Prisma", "PostgreSQL", "WebRTC", "Stripe"],
-          "category": "web-development",
-          "subCategory": "full-stack",
-          "featured": false,
-          "liveUrl": "#",
-          "githubUrl": "#"
+          "liveUrl": "https://expense-tracker-d8f59.web.app/login",
+          "githubUrl": "https://github.com/Sourav-Barua-Niloy/Expense-Tracker-React-"
         },
         {
           "id": "fe1",
