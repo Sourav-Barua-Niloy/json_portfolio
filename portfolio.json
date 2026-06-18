@@ -242,7 +242,6 @@
           "liveUrl": "#",
           "githubUrl": "#"
         },
-        // Frontend 
         {
           "id": "fe1",
           "title": "TypeFlow — Typing Skill Trainer",
@@ -254,7 +253,6 @@
           "liveUrl": "https://typeflow-app.web.app/",
           "githubUrl": "https://github.com/Sourav-Barua-Niloy/TypeFlow-Typing-Skill-Trainer"
         },
-        //backend
         {
           "id": "be1",
           "title": "Microservices API Gateway",
