@@ -145,25 +145,25 @@
         },
         {
           "id": "rp1",
-          "title": "Social Media Sentiment Analysis",
-          "description": "NLP-based research analyzing public sentiment on climate policy across Twitter, Reddit, and news articles using BERT fine-tuning.",
-          "tags": ["NLP", "BERT", "Python", "Hugging Face"],
+          "title": "Next-Generation Stock Prediction: Integrating Time Series with Machine and Deep Learning Techniques",
+          "description": "First study predicting Bangladeshi stock prices (City Bank Ltd. and BSRM Steels Ltd.) using time series analysis with feature extraction and ML/DL models including Random Forest Regressor, XGBoost, LSTM, and CNN+LSTM. Published at 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN).",
+          "tags": ["Machine Learning", "Deep Learning", "LSTM", "Time Series", "Python"],
           "category": "data-analysis",
           "subCategory": "research-projects",
           "featured": true,
           "liveUrl": null,
-          "githubUrl": "#"
+          "githubUrl": "https://ieeexplore.ieee.org/abstract/document/11546340/"
         },
         {
           "id": "rp2",
-          "title": "Urban Traffic Pattern Study",
-          "description": "Academic research on Dhaka traffic patterns using computer vision and YOLO object detection on 500+ hours of CCTV footage.",
-          "tags": ["Computer Vision", "YOLO", "OpenCV", "Python"],
+          "title": "A Stacking Ensemble Framework for Predicting Employee Turnover: Explainable AI with SHAP",
+          "description": "Research predicting employee attrition using ML, ensemble learning, and DL methods on the IBM HR Analytics dataset (1,470 records). Preprocessing included SMOTE class balancing and ANOVA feature selection, with SHAP for explainability. Published at 2025 IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS).",
+          "tags": ["Machine Learning", "Ensemble Learning", "Explainable AI", "SHAP", "Python"],
           "category": "data-analysis",
           "subCategory": "research-projects",
           "featured": false,
           "liveUrl": null,
-          "githubUrl": "#"
+          "githubUrl": "https://ieeexplore.ieee.org/abstract/document/11381730/"
         },
         {
           "id": "wd1",
